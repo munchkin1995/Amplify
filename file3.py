@@ -1,3 +1,8 @@
-import dataclasses
+def mul(a,b):
+    
+    return  a*b
 
-print('kkkkkkk')
+
+xx = mul(23,1)
+
+print(xx)
