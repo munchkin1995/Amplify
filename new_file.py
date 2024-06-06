@@ -5,8 +5,8 @@ print('my name is payal')
 
 a = 23
 
-b = 24
+h = 'hello'
 
-c  = a + b
+ca = str(a)+h+'hhhh'
 
-print(c)
+print(ca)
